@@ -9,4 +9,5 @@ projeyi cloneladıktan sonra virtualstudio programında açın
 pull requestler kabul edilir. önce bir konu seçin.
 ## licence 
 MIT
+![image](https://github.com/yalovasy/kodluyoruzilkrepo/assets/100465728/98516f99-42d0-4f95-b5b6-a5e71f2e5009)
 
